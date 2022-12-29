@@ -1,1 +1,2 @@
-# mediapipe_gesture_control
+# 부소마 캠프 학습 결과
+
