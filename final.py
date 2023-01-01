@@ -33,8 +33,9 @@ gesture = [
     [True, True, False, False, False, "Volume Up"], # 엄지, 검지
     [False, True, False, False, True, "Volume Down"], # 소지, 검지
     [True, False, False, False, False, "Brightness Up"], # 엄지
-    [False, False, False, False, True, "Brightness Down"] # 소지
+    [False, False, False, False, True, "Brightness Down"], # 소지
 ]
+
 
 while True:
     success,img=cap.read()
